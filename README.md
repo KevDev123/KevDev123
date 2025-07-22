@@ -5,8 +5,9 @@
 
 ## 🚀 Tecnologías que manejo:
 - 👨‍💻 Java | JSP | Servlets
-- 🌐 HTML | CSS | JavaScript
-- 🗃️ MySQL | JDBC
+- Spring boot 🌿
+- 🌐 HTML | CSS | JavaScript 
+- 🗃️ SQLServer | MySQL | JDBC
 - 🧠 Patrones MVC | Principios SOLID
 
 ## 📌 Algunos de mis proyectos:
@@ -14,7 +15,7 @@
 - **Refugio Mascotas**: Página estática para adopción de mascotas.
 - **Carta de Amor**: Proyecto HTML para practicar diseño web.
 
-📫 **Contacto:** kevin.dev@ejemplo.com *(pon el real o un Gmail técnico)*  
+📫 **Contacto:** kevingabrielcontact@gmail.com *(pon el real o un Gmail técnico)*  
 🔗 **Portafolio Web:** [link a tu web si tienes una]  
 
 ![](./Media/header.jpg)
