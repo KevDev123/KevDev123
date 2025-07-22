@@ -5,18 +5,29 @@
 
 ## 🚀 Tecnologías que manejo:
 - 👨‍💻 Java | JSP | Servlets
-- Spring boot 🌿
-- 🌐 HTML | CSS | JavaScript 
+- 🌿 Thymeleaf | Spring boot 
 - 🗃️ SQLServer | MySQL | JDBC
+- 🌐 HTML | CSS | JavaScript
 - 🧠 Patrones MVC | Principios SOLID
+
+## 💻 Conocimientos adicionales:
+- 🖥 Redes 
+- 📈 Excel
+- 🐧 Linux
+- ⚙ Mantenimiento de computadora
+   
+## 🏙 Idiomas manejados:
+- 👨‍🦱 Español (nativo)  
+- 🗽 Ingles(basico - A2) 
+
 
 ## 📌 Algunos de mis proyectos:
 - **Sistema Clínico**: App web Java (JSP/Servlets) para gestión de pacientes.
+- **Sistema taller automotriz**: App web Java (thymeleaf/Spring boot) para gestión de un taller.
 - **Refugio Mascotas**: Página estática para adopción de mascotas.
-- **Carta de Amor**: Proyecto HTML para practicar diseño web.
 
-📫 **Contacto:** kevingabrielcontact@gmail.com *(pon el real o un Gmail técnico)*  
-🔗 **Portafolio Web:** [link a tu web si tienes una]  
+📫 **Contacto:** kevingabrielcontact@gmail.com 
+🔗 **Portafolio Web:** 
 
 ![](./Media/header.jpg)
 
