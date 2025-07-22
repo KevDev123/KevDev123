@@ -8,6 +8,7 @@
 - 🌿 Thymeleaf | Spring boot 
 - 🗃️ SQLServer | MySQL | JDBC
 - 🌐 HTML | CSS | JavaScript
+- 📟 Git | GitHub
 - 🧠 Patrones MVC | Principios SOLID
 
 ## 💻 Conocimientos adicionales:
