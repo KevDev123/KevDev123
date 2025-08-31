@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Kevin Gabriel
 
 🎓 **Estudiante de Ingeniería en Sistemas**  
-💻 Apasionado por el desarrollo **Java (Backend)**, la **ciberseguridad**, la **web** y las **buenas prácticas de programación**.
+💻 Apasionado por el desarrollo **Java (Backend)**, la **web** y las **buenas prácticas de programación**.
 
 ---
 
